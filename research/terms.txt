@@ -11,22 +11,21 @@ journey.boarding_time
 journey.arrival_time
 journey.boarding_point
 journey.destination_point
+journey.destination_point_label
 journey.class
+journey.class_label
 
 passengers
 
-passenger.booking.status
-passenger.booking.coach_number
-passenger.booking.berth_number
-passenger.booking.quota
+passenger.quota
 
-passenger.current.coach_number
-passenger.current.berth_number
-passenger.current.status
-passenger.current.coach_position
+passenger.requested_booking { coach_number: 23, berth_number: 2, status: "Cancelled" }
+passenger.alloted_booking { coach_number: 23, berth_number: 2, status: "Cancelled" }
 
 chart.status
 
 
 example pnr:
-633-0842243
+6330842243
+
+http://www.indianrailways.gov.in/railwayboard/uploads/directorate/coaching/pdf/Station_code.pdf
