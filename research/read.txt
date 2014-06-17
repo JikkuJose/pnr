@@ -1,0 +1,7 @@
+http://www.johnpapa.net/pageinspa/
+http://blog.crossplatformruby.com/universal-ruby-gems-in-20-lines-of-code/
+http://en.wikipedia.org/wiki/Single-page_application
+http://mobile.dzone.com/articles/single-page-web-apps-worst
+http://code.tutsplus.com/tutorials/single-page-todo-application-with-backbonejs--cms-21417
+http://code.tutsplus.com/tutorials/a-beginners-guide-to-http-and-rest--net-16340
+
