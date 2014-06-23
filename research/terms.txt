@@ -1,5 +1,4 @@
 server
-error_message
 date
 pnr
 ticket_type
@@ -11,20 +10,25 @@ journey.boarding_time
 journey.arrival_time
 journey.boarding_point
 journey.destination_point
-journey.destination_point_label
 journey.class
-journey.class_label
 
 passengers
 
 passenger.quota
-
-passenger.requested_booking { coach_number: 23, berth_number: 2, status: "Cancelled" }
+passenger.requested_booking { coach_number: 23, berth_number: 2}
 passenger.alloted_booking { coach_number: 23, berth_number: 2, status: "Cancelled" }
 
 chart.status
 
 
+---
+error.message
+error.code
+server
+date
+pnr
+
+---
 example pnr:
 6330842243
 
